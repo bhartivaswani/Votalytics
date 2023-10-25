@@ -11,7 +11,7 @@ import xlsxwriter
 from openpyxl import load_workbook
 from csv import writer
 import matplotlib.pyplot as plt
-df=pd.read_csv('/home/krish/Downloads/voter_project.csv')
+df=pd.read_csv('/home/bharti/Downloads/voter_project.csv')
 
 print("********************************************************************************")
 print("********************************************************************************")
