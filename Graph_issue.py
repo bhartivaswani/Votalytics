@@ -15,7 +15,7 @@ df=pd.read_csv('/home/krish/Downloads/voter_project.csv')
 
 print("********************************************************************************")
 print("********************************************************************************")
-print("Voter Card Analysis by Arushi , Krish , Aditi , Ayushi , Kaushal ")
+print("Voter Card Analysis by Bharti ")
 i=1
 while i>0:
     task = input('Analysis of Country or State or -1 to exit ? ')
